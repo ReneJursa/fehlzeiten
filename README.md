@@ -14,6 +14,8 @@ FEHLZEITEN enthält folgende Third Party Software:
 * OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
        
 ## Installation
+Hier sind fertige Installationspakete für Linux, MacOS und Windows zu finden:
+[releases](https://github.com/ReneJursa/fehlzeiten/releases/)
 
 Windows:
 Zur Installation auf einem Computer mit einem Windows-Betriebssystem das Programm über die Datei 
