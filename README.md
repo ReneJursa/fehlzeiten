@@ -34,7 +34,7 @@ installieren.
 
 ## Beschreibung
 
-Das Programm FEHLZEITEN erstellt aus zwei Berichtstabellen von WebUntis (https://webuntis.com) Übersichtstabellen
+Das Programm FEHLZEITEN erstellt aus zwei Berichtstabellen von [WebUntis](https://webuntis.com) Übersichtstabellen
 zu allen stattgefundenen Unterrichtsstunden und den Fehlzeiten von Schüler:innen. 
 Alle Informationen dieser Übersichtstabellen findet man zwar unter den Berichten bei WebUntis,
 aber -zumindest bis dato- nicht in dieser zusammengefassten Form, die das Programm FEHLZEITEN erstellt.
