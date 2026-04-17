@@ -88,7 +88,7 @@ die stattgefundenen Unterrichtsstunden pro Fach zu ermitteln.
 
 Durch Klick auf den Button "Bearbeiten" im Hauptfenster des Programms öffnet sich ein Fenster mit den Entschuldigungsgründen.
 
-![EntschuldigungsGruende](images/EntschuldigungsGründe.png?raw=tree)
+![EntschuldigungsGruende](images/EntschuldigungsGruende.png?raw=tree)
 
 In dem Fenster "Entschuldigungsgründe" können dann einige oder alle voreingestellten Gründe gelöscht werden, oder/und 
 welche diesen hinzugefügt werden. 
