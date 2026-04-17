@@ -1,37 +1,6 @@
 
 # FEHLZEITEN
 
-## Lizenz
-
-Das Programm FEHLZEITEN wird unter der GNU General Public License veröffentlicht.
-
-Copyright (C) 2026 René Jursa
-
-## Third Party Produkte
-
-FEHLZEITEN enthält folgende Third Party Software:
-* JavaFX (Open source Java client application platform): https://openjfx.io/
-* OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
-       
-## Installation
-Hier sind fertige Installationspakete für Linux, MacOS und Windows zu finden:
-[releases](https://github.com/ReneJursa/fehlzeiten/releases/)
-
-Windows:
-Zur Installation auf einem Computer mit einem Windows-Betriebssystem das Programm über die Datei 
-Fehlzeiten-1.4.0_win_x64.msi installieren. Falls hierbei die Meldung „Der Computer wurde durch Windows geschützt“ 
-auftaucht, dann auf „Weitere Informationen“ klicken und danach auf „Trotzdem ausführen“.
-
-Linux:
-Zur Installation auf einem Computer mit einer Linux-Distribution, die Debian-basiert ist, also z.B. Debian, MX Linux,
-Linux Mint, Ubuntu und Derivate, das Programm über die Datei fehlzeiten_1.4.0_linux_amd64.deb installieren. 
-Bei anderen Linux-Distributionen, auf denen sich RPM-Pakete installieren lassen, wie z.B. Fedora, OpenSUSE oder Red Hat,
-das Programm über die Datei fehlzeiten-1.4.0_linux_x86_64.rpm installieren.  
-
-MacOS:
-Zur Installation auf einem Computer mit einem MacOS-Betriebssystem das Programm über die Datei fehlzeiten_1.4.0_macOS.dmg 
-installieren.
-
 ## Beschreibung
 
 Das Programm FEHLZEITEN erstellt aus zwei Berichtstabellen von [WebUntis](https://webuntis.com) Übersichtstabellen
@@ -124,6 +93,37 @@ eingelesen werden, wenn man das Semikolon als Trennoption einstellt.
 
 Auf Wunsch kann in dem Tabellenkalkulationsprogramm über "Speichern unter" aus dieser CSV-Datei auch eine 
 Excel-Datei erzeugt werden.
+
+## Installation
+Hier sind fertige Installationspakete für Linux, MacOS und Windows zu finden:
+[releases](https://github.com/ReneJursa/fehlzeiten/releases/)
+
+Windows:
+Zur Installation auf einem Computer mit einem Windows-Betriebssystem das Programm über die Datei 
+Fehlzeiten-1.4.0_win_x64.msi installieren. Falls hierbei die Meldung „Der Computer wurde durch Windows geschützt“ 
+auftaucht, dann auf „Weitere Informationen“ klicken und danach auf „Trotzdem ausführen“.
+
+Linux:
+Zur Installation auf einem Computer mit einer Linux-Distribution, die Debian-basiert ist, also z.B. Debian, MX Linux,
+Linux Mint, Ubuntu und Derivate, das Programm über die Datei fehlzeiten_1.4.0_linux_amd64.deb installieren. 
+Bei anderen Linux-Distributionen, auf denen sich RPM-Pakete installieren lassen, wie z.B. Fedora, OpenSUSE oder Red Hat,
+das Programm über die Datei fehlzeiten-1.4.0_linux_x86_64.rpm installieren.  
+
+MacOS:
+Zur Installation auf einem Computer mit einem MacOS-Betriebssystem das Programm über die Datei fehlzeiten_1.4.0_macOS.dmg 
+installieren.
+
+## Lizenz
+
+Das Programm FEHLZEITEN wird unter der GNU General Public License veröffentlicht.
+
+Copyright (C) 2026 René Jursa
+
+## Third Party Produkte
+
+FEHLZEITEN enthält folgende Third Party Software:
+* JavaFX (Open source Java client application platform): https://openjfx.io/
+* OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
 
 ## Weitere Hinweise
 
