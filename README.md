@@ -8,7 +8,7 @@ zu allen stattgefundenen Unterrichtsstunden und den Fehlzeiten von Schüler:inne
 Alle Informationen dieser Übersichtstabellen findet man zwar unter den Berichten bei WebUntis,
 aber -zumindest bis dato- nicht in dieser zusammengefassten Form, die das Programm FEHLZEITEN erstellt.
 
-Darstellung der stattgefundenen Unterrichtsstunden:
+Beispiel einer Darstellung der stattgefundenen Unterrichtsstunden:
 
 <img src="images/Unterrichtsstunden.png" width="600" alt="Unterrichtsstunden">
 
