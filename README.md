@@ -126,20 +126,6 @@ MacOS:
 Zur Installation auf einem Computer mit einem MacOS-Betriebssystem das Programm über die Datei fehlzeiten_1.4.0_macOS.dmg 
 installieren.
 
-## Lizenz
-
-Das Programm FEHLZEITEN wird unter der GNU General Public License veröffentlicht.
-
-Copyright (C) 2026 René Jursa
-
-## Third Party Produkte
-
-FEHLZEITEN enthält folgende Third Party Software:
-
-* JavaFX (Open source Java client application platform): https://openjfx.io/
-
-* OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
-
 ## Weitere Hinweise
 
 Wenn man die Entschuldigungsgründe im Programm verändert hat, muss die AbscencePerStudent-Datei nochmal neu 
@@ -202,3 +188,17 @@ Die dargestellten Fehlzeiten dieser anderen Klasse werden nicht in den Fehlzeite
 Wenn ein Fach in der  AbsencePerStudent-Datei einer Klasse steht, das nicht in der TeachingMethods-Datei dieser 
 Klasse aufgeführt ist,  dann wird eine Fehlermeldung ausgegeben. Bei Klick auf "OK" wird zur nächsten Zeile gegangen.
 Die zugehörige Fehlzeit wird nicht in den Fehlzeitentabellen dargestellt. 
+
+## Lizenz
+
+Das Programm FEHLZEITEN wird unter der GNU General Public License veröffentlicht.
+
+Copyright (C) 2026 René Jursa
+
+## Third Party Produkte
+
+FEHLZEITEN enthält folgende Third Party Software:
+
+* JavaFX (Open source Java client application platform): https://openjfx.io/
+
+* OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
