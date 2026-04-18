@@ -8,22 +8,35 @@ zu allen stattgefundenen Unterrichtsstunden und den Fehlzeiten von Schüler:inne
 Alle Informationen dieser Übersichtstabellen findet man zwar unter den Berichten bei WebUntis,
 aber -zumindest bis dato- nicht in dieser zusammengefassten Form, die das Programm FEHLZEITEN erstellt.
 
+Darstellung der stattgefundenen Unterrichtsstunden:
+
+<img src="images/Unterrichtsstunden.png" width="600" alt="Unterrichtsstunden">
+
 In den Fehlzeitentabellen werden die gesamten Fehlzeiten der Schüler:innen und die von diesen unentschuldigten Fehlzeiten
 jeweils in Unterrichtsstunden und in Prozent nebeneinander dargestellt. Dabei beziehen sich die Prozentangaben auf die
 gesamten stattgefundenen Unterrichtsstunden einer Klasse innerhalb des bei der Erstellung der Berichtstabellen
 von WebUntis ausgewählten Zeitbereichs.
-Weiterhin werden alle Fehlzeiten und die davon unentschuldigten Fehlzeiten pro Fach in der 1. Spalte nach Schüler:innen 
-sortiert und darunter die Fehlzeiten pro Schüler:in in der 1. Spalte nach Fächern sortiert dargestellt. Auch diese 
-Fehlzeiten pro Fach werden in Unterrichtsstunden und in Prozent dargestellt, wobei sich hierbei die Prozentangaben auf
-die gesamten stattgefundenen Unterrichtsstunden in dem jeweiligen Fach einer Klasse beziehen.
 
 Die Tabellen werden durch das Programm wahlweise in einer CSV-Datei oder in einem PDF-Dokument erstellt.
 
 In dem PDF-Dokument werden die Tabellenzellen der prozentualen Fehlzeiten zusätzlich mit farbigen Balken unterlegt, 
-deren Längen den Prozentwerten entsprechen. 
-Zudem sind die Balken in unterschiedlichen Farben dargestellt: Liegen die Fehlzeiten unterhalb von 10 %, werden 
-die Balken grün gefärbt; bei Fehlzeiten ab 10 % und kleiner als 15 %, werden die Balken gelb; ab 15 % und 
-kleiner als 20 %, werden sie orange und bei Fehlzeiten ab 20 %, werden die Balken rot gefärbt.
+deren Längen den Prozentwerten entsprechen. Zudem sind die Balken in unterschiedlichen Farben dargestellt: 
+Liegen die Fehlzeiten unterhalb von 10 %, werden die Balken grün gefärbt; bei Fehlzeiten ab 10 % und kleiner als 15 %, 
+werden die Balken gelb; ab 15 % und kleiner als 20 %, werden sie orange und bei Fehlzeiten ab 20 %, werden die Balken rot gefärbt.
+
+<img src="images/Fehlzeiten.png" width="600" alt="Fehlzeiten">
+
+Weiterhin werden alle Fehlzeiten und die davon unentschuldigten Fehlzeiten pro Fach in der 1. Spalte nach Schüler:innen 
+sortiert dargestellt:
+
+<img src="images/FehlzeitenProSchuelerProFach.png" width="600" alt="FehlzeitenProSchuelerProFach">
+
+und darunter die Fehlzeiten in der 1. Spalte nach Fächern sortiert dargestellt:
+
+<img src="images/FehlzeitenProFachProSchueler.png" width="600" alt="FehlzeitenProFachProSchueler">
+
+Die Prozentangaben bei den Fehlzeiten pro Fach beziehen sich auf die gesamten stattgefundenen Unterrichtsstunden in dem 
+jeweiligen Fach einer Klasse.
 
 ## Benötigte Tabellen von WebUntis
 
@@ -122,7 +135,9 @@ Copyright (C) 2026 René Jursa
 ## Third Party Produkte
 
 FEHLZEITEN enthält folgende Third Party Software:
+
 * JavaFX (Open source Java client application platform): https://openjfx.io/
+
 * OpenPDF (Open source Java library): https://github.com/LibrePDF/OpenPDF/ 
 
 ## Weitere Hinweise
