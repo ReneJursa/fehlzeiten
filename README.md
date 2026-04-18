@@ -8,7 +8,9 @@ zu allen stattgefundenen Unterrichtsstunden und den Fehlzeiten von Schüler:inne
 Alle Informationen dieser Übersichtstabellen findet man zwar unter den Berichten bei WebUntis,
 aber -zumindest bis dato- nicht in dieser zusammengefassten Form, die das Programm FEHLZEITEN erstellt.
 
-Beispiel einer Darstellung der stattgefundenen Unterrichtsstunden:
+Die Tabellen werden durch das Programm wahlweise in einer CSV-Datei oder in einem PDF-Dokument erstellt.
+
+Beispiel-Darstellung von stattgefundenen Unterrichtsstunden in dem erzeugten PDF-Dokument:
 
 <img src="images/Unterrichtsstunden.png" width="600" alt="Unterrichtsstunden">
 
@@ -16,8 +18,6 @@ In den Fehlzeitentabellen werden die gesamten Fehlzeiten der Schüler:innen und 
 jeweils in Unterrichtsstunden und in Prozent nebeneinander dargestellt. Dabei beziehen sich die Prozentangaben auf die
 gesamten stattgefundenen Unterrichtsstunden einer Klasse innerhalb des bei der Erstellung der Berichtstabellen
 von WebUntis ausgewählten Zeitbereichs.
-
-Die Tabellen werden durch das Programm wahlweise in einer CSV-Datei oder in einem PDF-Dokument erstellt.
 
 In dem PDF-Dokument werden die Tabellenzellen der prozentualen Fehlzeiten zusätzlich mit farbigen Balken unterlegt, 
 deren Längen den Prozentwerten entsprechen. Zudem sind die Balken in unterschiedlichen Farben dargestellt: 
