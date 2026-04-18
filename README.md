@@ -24,6 +24,8 @@ deren Längen den Prozentwerten entsprechen. Zudem sind die Balken in unterschie
 Liegen die Fehlzeiten unterhalb von 10 %, werden die Balken grün gefärbt; bei Fehlzeiten ab 10 % und kleiner als 15 %, 
 werden die Balken gelb; ab 15 % und kleiner als 20 %, werden sie orange und bei Fehlzeiten ab 20 %, werden die Balken rot gefärbt.
 
+Beispieldarstellungen in dem erzeugten PDF-Dokument:
+
 <img src="images/Fehlzeiten.png" width="600" alt="Fehlzeiten">
 
 Weiterhin werden alle Fehlzeiten und die davon unentschuldigten Fehlzeiten pro Fach in der 1. Spalte nach Schüler:innen 
